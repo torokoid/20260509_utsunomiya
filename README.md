@@ -730,7 +730,7 @@ p.note { display: none; }
     <h2><a href="https://www.kyoiku-shuppan.co.jp/docs/pages/rika/guide/astro/hutagoza.html" target="_blank"><span class="snow">ふたご座とは</span></a></h2><br><br>
 
 <h2><span class="yellow">やまねこ座、説明リンクします</span></h2>
-    <h2><a href="https://www.study-style.com/seiza/Lyn.html#google_vignette" target="_blank"><span class="snow">やまねこ座とは</span></a></h2>
+    <h2><a href="https://www.study-style.com/seiza/Lyn.html#google_vignette" target="_blank"><span class="snow">やまねこ座とは</span></a></h2><br>
 
 <h2><span class="yellow">おおぐま座、説明リンクします</span></h2>
     <h2><a href="https://www.study-style.com/seiza/UMa.html#google_vignette" target="_blank"><span class="snow">おおぐま座とは</span></a></h2>
