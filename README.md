@@ -713,10 +713,10 @@ p.note { display: none; }
 <!--
 <h2><span class="yellow">いっかくじゅう座、説明リンク貼りますね</span></h2>
     <h2><a href="https://www.astroarts.co.jp/article/hl/a/13376_mook-mon" target="_blank"><span class="snow">いっかくじゅう座とは</span></a></h2>
--->
+
 <h2><span class="yellow">おおいぬ座、説明リンク貼りますね</span></h2>
     <h2><a href="https://www.astroarts.co.jp/article/hl/a/13373_mook-cma" target="_blank"><span class="snow">おおいぬ座とは</span></a></h2>
-<!--
+
 <h2><span class="yellow">冬の大三角形、説明リンク貼りますね</span></h2>
     <h2><a href="https://www.kenko-tokina.co.jp/special/celestial/201601_sorawomiyou.html" target="_blank"><span class="snow">冬の大三角形とは</span></a></h2>
 
@@ -731,6 +731,9 @@ p.note { display: none; }
 
 <h2><span class="yellow">やまねこ座、説明リンクします</span></h2>
     <h2><a href="https://www.study-style.com/seiza/Lyn.html#google_vignette" target="_blank"><span class="snow">やまねこ座とは</span></a></h2>
+
+<h2><span class="yellow">おおぐま座、説明リンクします</span></h2>
+    <h2><a href="https://www.study-style.com/seiza/UMa.html#google_vignette" target="_blank"><span class="snow">おおぐま座とは</span></a></h2>
 
 <!--
 <h2><span class="yellow">こいぬ座、説明リンクします</span></h2>
