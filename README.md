@@ -538,6 +538,7 @@ p.note { display: none; }
   </picture>
 </a>
 
+<h2><span class="yellow">市内の生垣はお花が満開</span></h2>
 <a href="20260509_052.webp" target="_blank">
   <picture>
     <source srcset="20260509_052.webp" type="image/webp">
@@ -545,7 +546,6 @@ p.note { display: none; }
   </picture>
 </a>
 
-<h2><span class="yellow">市内の生垣はお花が満開</span></h2>
 <a href="20260509_053.webp" target="_blank">
   <picture>
     <source srcset="20260509_053.webp" type="image/webp">
@@ -709,13 +709,13 @@ p.note { display: none; }
     <h2><a href="https://www.dainippon-tosho.co.jp/star/2014/12/ohitujiza.html" target="_blank"><span class="snow">おひつじ座とは</span></a></h2>
 -->
 <h2><span class="yellow">ぎょしゃ座、説明リンク貼りますね</span></h2>
-    <h2><a href="https://www.dainippon-tosho.co.jp/star/2026/01/gyosyaza.html" target="_blank"><span class="snow">ぎょしゃ座とは</span></a></h2>
+    <h2><a href="https://www.dainippon-tosho.co.jp/star/2026/01/gyosyaza.html" target="_blank"><span class="snow">ぎょしゃ座とは</span></a></h2><br><br>
 <!--
 <h2><span class="yellow">いっかくじゅう座、説明リンク貼りますね</span></h2>
     <h2><a href="https://www.astroarts.co.jp/article/hl/a/13376_mook-mon" target="_blank"><span class="snow">いっかくじゅう座とは</span></a></h2>
 
 <h2><span class="yellow">おおいぬ座、説明リンク貼りますね</span></h2>
-    <h2><a href="https://www.astroarts.co.jp/article/hl/a/13373_mook-cma" target="_blank"><span class="snow">おおいぬ座とは</span></a></h2>
+    <h2><a href="https://www.astroarts.co.jp/article/hl/a/13373_mook-cma" target="_blank"><span class="snow">おおいぬ座とは</span></a></h2><br><br>
 
 <h2><span class="yellow">冬の大三角形、説明リンク貼りますね</span></h2>
     <h2><a href="https://www.kenko-tokina.co.jp/special/celestial/201601_sorawomiyou.html" target="_blank"><span class="snow">冬の大三角形とは</span></a></h2>
@@ -727,7 +727,7 @@ p.note { display: none; }
     <h2><a href="https://www.kyoiku-shuppan.co.jp/docs/pages/rika/guide/astro/ousiza.html" target="_blank"><span class="snow">おうし座とは</span></a></h2>
 -->
 <h2><span class="yellow">ふたご座、説明リンクします</span></h2>
-    <h2><a href="https://www.kyoiku-shuppan.co.jp/docs/pages/rika/guide/astro/hutagoza.html" target="_blank"><span class="snow">ふたご座とは</span></a></h2>
+    <h2><a href="https://www.kyoiku-shuppan.co.jp/docs/pages/rika/guide/astro/hutagoza.html" target="_blank"><span class="snow">ふたご座とは</span></a></h2><br><br>
 
 <h2><span class="yellow">やまねこ座、説明リンクします</span></h2>
     <h2><a href="https://www.study-style.com/seiza/Lyn.html#google_vignette" target="_blank"><span class="snow">やまねこ座とは</span></a></h2>
